@@ -6,24 +6,26 @@ body, ul, p, h1, h2{
 body{
 	min-width: 750px;
 }
+
 .header-top-canvas{
 	background-color:#007765;
 }
 
 .header-top-content{
-	max-width: 1219px;
+	max-width: 1110px;
 	margin-left: auto;
 	margin-right: auto;
 	display: flex;
 	height: 84px;
 	justify-content: space-between;
+	padding-left: 55px;
+	padding-right: 54px;
 }
 
 .logo{
 	width: 184px;
 	height: auto;
 	align-self: center;
-	margin-left: 55px;
 }
 
 .nav-top{
@@ -33,21 +35,17 @@ body{
 .navigation{
 	list-style-type: none;
 	display: flex;
-	font-family: "Roboto","Times New Roman", sans-serif,serif;
-	font-size: 24px;
-	font-weight: 500;
-	color:white;
 }
 
 .nav-list-item{
-	margin-left: 8px;
+	margin-right: 8px;
 }
 
 .nav-list-item:last-child{
-	margin-right: 54px;
+	margin-right: 0px;
 }
 
-.header-bottom{
+.header-bottom-canvas{
 	height: 403px;
 	background:black no-repeat center;
 	background-image:url(image/Header-bottom.png);
@@ -57,46 +55,23 @@ body{
 }
 
 h1{
-	font-family: "Roboto","Times New Roman", sans-serif,serif;
-	color: white;
-	font-size: 72px;
-	font-weight: 500;
 	align-self: center;
 }
 
 .section-1-canvas{
 	background-color: #EEEEEE;
-	
 }
 
 .section-1-content{
 	max-width: 1110px;
 	margin-left: auto;
 	margin-right: auto;
-
 	padding: 48px 54px 92px 55px;
-
 }
 
 h2{
 	text-align: center;
-	font-family: "Roboto","Times New Roman", sans-serif,serif;
-	color: #007765;
-	font-weight: 500;
-	font-size: 64px;
 	margin-bottom: 16px;;
-	
-}
-
-.p-text{
-	font-family: "Roboto","Times New Roman", sans-serif,serif;
-	font-size: 32px;
-	font-weight: normal;
-	font-style: normal;
-}
-
-br{
-	font-size: 32px;
 }
 
 .section-2-canvas{
@@ -111,9 +86,29 @@ br{
 .section-2-content{
 	max-width: 893px;
 	align-self: center;
-	font-family: "Roboto","Times New Roman", sans-serif,serif;
-	color: white;
-	font-size: 48px;
-	font-weight: 500;
 	text-align: center;
 }
+
+.section-3-canvas{
+	background-color: #FFFFFF;
+}
+
+.section-3-content{
+	max-width: 1110px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 48px 54px 92px 55px;
+}
+
+.section-3-logo-text{
+	display: flex;
+	margin-bottom: 35px;
+}
+
+.PPC-Logo{
+	width: 115px;
+	height: 115px;
+	margin-right: 48px;
+}
+
+

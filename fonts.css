@@ -1,0 +1,38 @@
+.navigation{
+  font-family: "Roboto","Times New Roman", sans-serif,serif;
+	font-size: 24px;
+	font-weight: 500;
+	color:white;
+}
+
+h1{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: white;
+	font-size: 72px;
+	font-weight: 500;
+}
+
+h2{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: #007765;
+	font-weight: 500;
+	font-size: 64px;
+}
+
+br{
+	font-size: 32px;
+}
+
+.p-text{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	font-size: 32px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.section-2-content{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: white;
+	font-size: 48px;
+	font-weight: 500;
+}
