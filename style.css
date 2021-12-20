@@ -1,0 +1,119 @@
+body, ul, p, h1, h2{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	min-width: 750px;
+}
+.header-top-canvas{
+	background-color:#007765;
+}
+
+.header-top-content{
+	max-width: 1219px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	height: 84px;
+	justify-content: space-between;
+}
+
+.logo{
+	width: 184px;
+	height: auto;
+	align-self: center;
+	margin-left: 55px;
+}
+
+.nav-top{
+	align-self: center;
+}
+
+.navigation{
+	list-style-type: none;
+	display: flex;
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	font-size: 24px;
+	font-weight: 500;
+	color:white;
+}
+
+.nav-list-item{
+	margin-left: 8px;
+}
+
+.nav-list-item:last-child{
+	margin-right: 54px;
+}
+
+.header-bottom{
+	height: 403px;
+	background:black no-repeat center;
+	background-image:url(image/Header-bottom.png);
+	background-size:cover;
+	display: flex;
+	justify-content: center;
+}
+
+h1{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: white;
+	font-size: 72px;
+	font-weight: 500;
+	align-self: center;
+}
+
+.section-1-canvas{
+	background-color: #EEEEEE;
+	
+}
+
+.section-1-content{
+	max-width: 1110px;
+	margin-left: auto;
+	margin-right: auto;
+
+	padding: 48px 54px 92px 55px;
+
+}
+
+h2{
+	text-align: center;
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: #007765;
+	font-weight: 500;
+	font-size: 64px;
+	margin-bottom: 16px;;
+	
+}
+
+.p-text{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	font-size: 32px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+br{
+	font-size: 32px;
+}
+
+.section-2-canvas{
+	height: 483px;
+	background:blue no-repeat center;
+	background-image:url(image/Section-2-background.png);
+	background-size:cover;
+	display: flex;
+	justify-content: center;
+}
+
+.section-2-content{
+	max-width: 893px;
+	align-self: center;
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: white;
+	font-size: 48px;
+	font-weight: 500;
+	text-align: center;
+}
