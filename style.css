@@ -111,4 +111,35 @@ h2{
 	margin-right: 48px;
 }
 
+.section-4-canvas{
+	background-color: #EEEEEE;
+}
 
+.section-4-content{
+	max-width: 1110px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 48px 54px 30px 55px;
+}
+
+.section-4-content h2{
+	margin-bottom: 56px;
+}
+
+.team-container{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.person-card{
+	text-align: center;
+	flex-basis: 33%;
+	margin-bottom: 82px;
+}
+
+.person-photo{
+	width: 168px;
+	height: 168px;
+	margin-bottom: 12px;
+}

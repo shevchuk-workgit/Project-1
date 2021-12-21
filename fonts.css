@@ -36,3 +36,17 @@ br{
 	font-size: 48px;
 	font-weight: 500;
 }
+
+.person-name{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	color: #007765;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.person-description{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+}
