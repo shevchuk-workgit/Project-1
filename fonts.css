@@ -1,3 +1,11 @@
+.nav-list-item > a, 
+.nav-list-item > a:active, 
+.nav-list-item > a:hover{
+	text-decoration: none;
+	color:white;
+	
+}
+
 .navigation{
   font-family: "Roboto","Times New Roman", sans-serif,serif;
 	font-size: 24px;
@@ -49,4 +57,13 @@ br{
 	font-size: 18px;
 	font-weight: normal;
 	font-style: italic;
+}
+
+.footer-content{
+	font-family: "Roboto","Times New Roman", sans-serif,serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: normal;
+	color: white;
+
 }

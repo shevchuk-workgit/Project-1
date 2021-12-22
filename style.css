@@ -143,3 +143,16 @@ h2{
 	height: 168px;
 	margin-bottom: 12px;
 }
+
+.footer-canvas{
+	display: flex;
+	background-color: #333333;
+	height: 176px;
+	justify-content: center;
+	text-align: center;
+}
+
+.footer-content{
+	width: 540px;
+	padding-top: 48px;
+}
