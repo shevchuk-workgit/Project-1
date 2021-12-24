@@ -48,7 +48,7 @@ body{
 .header-bottom-canvas{
 	height: 403px;
 	background:black no-repeat center;
-	background-image:url(image/Header-bottom.png);
+	background-image:url(../image/Header-bottom.png);
 	background-size:cover;
 	display: flex;
 	justify-content: center;
@@ -77,7 +77,7 @@ h2{
 .section-2-canvas{
 	height: 483px;
 	background:blue no-repeat center;
-	background-image:url(image/Section-2-background.png);
+	background-image:url(../image/Section-2-background.png);
 	background-size:cover;
 	display: flex;
 	justify-content: center;

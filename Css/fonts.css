@@ -3,7 +3,6 @@
 .nav-list-item > a:hover{
 	text-decoration: none;
 	color:white;
-	
 }
 
 .navigation{
@@ -35,7 +34,6 @@ br{
 	font-family: "Roboto","Times New Roman", sans-serif,serif;
 	font-size: 32px;
 	font-weight: normal;
-	font-style: normal;
 }
 
 .section-2-content{
@@ -63,7 +61,5 @@ br{
 	font-family: "Roboto","Times New Roman", sans-serif,serif;
 	font-size: 18px;
 	font-weight: normal;
-	font-style: normal;
 	color: white;
-
 }
